@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dermyopicen.github.io/sitemap
+Sitemap: https://dermyopicen.github.io/app/sitemap
+Sitemap: https://dermyopicen.github.io/assets/sitemap
+Sitemap: https://dermyopicen.github.io/css/sitemap
+Sitemap: https://dermyopicen.github.io/includes/sitemap
+Sitemap: https://dermyopicen.github.io/item/sitemap
+Sitemap: https://dermyopicen.github.io/src/sitemap
